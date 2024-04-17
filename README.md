@@ -1,4 +1,3 @@
-# databricks_repo
 
 <!DOCTYPE html>
 <html lang="en">
