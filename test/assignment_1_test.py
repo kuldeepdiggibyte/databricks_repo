@@ -2,7 +2,7 @@ from pyspark.sql import SparkSession
 from pyspark.sql.functions import col
 import unittest
 
-from databricks_repo.assignment_1.source_to_bronze.utils import read_csv_with_custom_schema, convert_camel_to_snake_case, write_delta_table
+from databricks_repo.src.assignment_1.source_to_bronze.utils import read_csv_with_custom_schema, convert_camel_to_snake_case
 
 
 #
